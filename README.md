@@ -1,4 +1,0 @@
-list
-====
-
-STL list(remake)
